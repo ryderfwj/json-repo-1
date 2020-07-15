@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Apple",
+        "species": "dog",
+        "foods": {
+            "likes": [
+                "herbs",
+                "meat"
+            ],
+            "dislikes": [
+                "bitter gourd"
+            ]
+        }
+    },
+    {
+        "name": "Licky",
+        "species": "dog",
+        "foods": {
+            "likes": [
+                "herbs",
+                "meat",
+                "biscuits"
+            ],
+            "dislikes": [
+                "bitter gourd",
+                "onions"
+            ]
+        }
+    },
+    {
+        "name": "Bear Bear",
+        "species": "dog",
+        "foods": {
+            "likes": [
+                "potatoes",
+                "meat"
+            ],
+            "dislikes": [
+                "bitter gourd",
+                "herbs"
+            ]
+        }
+    }
+]
